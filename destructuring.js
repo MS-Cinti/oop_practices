@@ -24,3 +24,4 @@ function funWithPoemData({yearFromInternet, authorFromInternet}) {
 funWithPoemData(poemData);
 
 //ha olyan kulcsot adunk be neki, ami nincsen(tehát pl másik névvel), akkor undefined lesz
+
