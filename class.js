@@ -49,6 +49,6 @@ class ForeignPoem extends Poem{
     }
 }
 
-const weoresPoem = new ForeignPoem("Weöres Sándor", 1962, "Énhasadás", "Utcasarkon várok rám, félórája is van tán. Ám értelmem fölragyog Nem jövök, mert itt vagyok.", "Allan Dixon")
+const weoresPoem = new ForeignPoem("Weöres Sándor", 1962, "Énhasadás", "Utcasarkon várok rám, félórája is van tán. Ám értelmem fölragyog Nem jövök, mert itt vagyok.", "Alan Dixon")
 
 weoresPoem.makePage();
